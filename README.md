@@ -10,6 +10,6 @@ JMA modifica
 
 **Víctor Manuel Martínez García**
 
-**David Ibeas Morrondo**
+David Ibeas Morrondo
 
 **Andoni Ugalde Mesanza**
