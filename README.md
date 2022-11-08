@@ -7,10 +7,6 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
-<<<<<<< HEAD
 MARTÍNEZ LÓPEZ, ALejandro
-=======
-
 Ainhoa Rodrigo Obregón
 Rodrigo Rodriguez Fernandez
->>>>>>> 75aa5f75e3a924b4f88761d026580009150c18e8
