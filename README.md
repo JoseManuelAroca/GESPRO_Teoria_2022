@@ -8,5 +8,5 @@ JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
 MARTÍNEZ LÓPEZ, ALejandro
-Ainhoa Rodrigo Obregón
-Rodrigo Rodriguez Fernandez
+RODRIGO OBREGÓN, Ainhoa
+RODRÍGUEZ FERNÁNDEZ, Rodrigo
