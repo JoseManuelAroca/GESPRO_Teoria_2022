@@ -9,3 +9,4 @@ JMA modifica
 **Incluid debajo el nombre de los miembros del grupo:**
 
 Santiago Rodríguez Diez
+Óscar Merino Martínez
