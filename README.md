@@ -1,9 +1,14 @@
-# GESPRO_Teoria_2022
-Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2022/23. Universidad de Burgos.
+# DESCRIPTION
 
-Para completar el trabajo de estudio en grupo en las sesiones de teoría, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
+EDream is a new social network based on **dreams**!
+
+You will be able to **publish your own dreams** once a day and **share** it with friends! People can react, interact and comment their followers’ posts ♥. You will also be able to see people who have dreamt similar things and discuss its **meaning**! **💭**
+
+✍🏼 You can also **journal** your own sleeping habits. Record your symptoms and feelings and receive personalized **mensual statistics and professional advices 💤**.
+
+🔐 EDream cares about your **privacy**! Configure your settings and notifications in the control panel.
 
 
-JMA modifica
+### Authors
 
-**Incluid debajo el nombre de los miembros del grupo:**
+* Patricia Hernando Fernández
