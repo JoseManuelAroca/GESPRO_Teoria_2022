@@ -8,11 +8,8 @@ JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
 <ul>
-<li><a href ="https://github.com/InigoGimenezNavarro">ÍñigoGiménez Navarro </a>
-<br>
-<li><a href="https://github.com/Varix2">Jorge Vara Rodriguez </a>
-<br>
-<li><a href="https://github.com/arturoCM99">Arturo Carretero Mateo</a>
-<br>
-<li><a href="https://github.com/fravian99">Luis Ángel Espinosa Lafuente </a>
- </ul>
+    <li><a href ="https://github.com/InigoGimenezNavarro">ÍñigoGiménez Navarro </a>
+    <li><a href="https://github.com/Varix2">Jorge Vara Rodriguez </a>
+    <li><a href="https://github.com/arturoCM99">Arturo Carretero Mateo</a>
+    <li><a href="https://github.com/fravian99">Luis Ángel Espinosa Lafuente </a>
+</ul>
