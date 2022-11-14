@@ -12,7 +12,7 @@ JMA modifica
 <link href ="https://github.com/InigoGimenezNavarro">ÍñigoGiménez Navarro </link>
 
 =======
-ahref ="https://github.com/InigoGimenezNavarro">ÍñigoGiménez Navarro </link>
+<a href ="https://github.com/InigoGimenezNavarro">ÍñigoGiménez Navarro </a>
 <a href="https://github.com/Varix2">Jorge Vara Rodriguez </a>
 <a href="https://github.com/arturoCM99">Arturo Carretero Mateo</a>
 >>>>>>> origin
