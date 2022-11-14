@@ -7,6 +7,7 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
+<br>
 <a href ="https://github.com/InigoGimenezNavarro">ÍñigoGiménez Navarro </a>
 <br>
 <a href="https://github.com/Varix2">Jorge Vara Rodriguez </a>
