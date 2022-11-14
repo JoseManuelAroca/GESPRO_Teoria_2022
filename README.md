@@ -8,6 +8,9 @@ JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
 <a href ="https://github.com/InigoGimenezNavarro">ÍñigoGiménez Navarro </a>
+<br>
 <a href="https://github.com/Varix2">Jorge Vara Rodriguez </a>
+<br>
 <a href="https://github.com/arturoCM99">Arturo Carretero Mateo</a>
+<br>
 <a href="https://github.com/fravian99">Luis Ángel Espinosa Lafuente </a>
