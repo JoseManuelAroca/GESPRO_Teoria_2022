@@ -14,4 +14,3 @@ David Ibeas Morrondo
 
 Andoni Ugalde Mesanza
 
-git checkout -b NOT-2-la-tarea-loca
