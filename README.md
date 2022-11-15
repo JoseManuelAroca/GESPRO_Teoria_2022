@@ -8,7 +8,10 @@ JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
 
-TOME ARNAIZ, David 
+TOME ARNAIZ, David
+
 MARTÍNEZ LÓPEZ, ALejandro
+
 RODRIGO OBREGÓN, Ainhoa
+
 RODRÍGUEZ FERNÁNDEZ, Rodrigo
