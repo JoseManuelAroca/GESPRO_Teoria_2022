@@ -8,7 +8,7 @@ JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
 =======
-Daniel Fernández Fernández
-Miguel Ángel Extremo Cabornero
-Rubén Arasti Blanco
-Samuel Murillo Arce
+Daniel Fernández Fernández   
+Miguel Ángel Extremo Cabornero  
+Rubén Arasti Blanco  
+Samuel Murillo Arce  
