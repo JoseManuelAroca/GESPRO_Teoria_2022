@@ -18,7 +18,7 @@ You will be able to **publish your own dreams** once a day and **share** it with
 🔐 EDream cares about your **privacy**! Configure your settings and notifications in the ```control panel```.
 
 
-## Authors
+# Authors
 
 * Patricia Hernando Fernández
 * Houssam Eddine Baba Bendermel
@@ -26,11 +26,14 @@ You will be able to **publish your own dreams** once a day and **share** it with
 * Sandra Díaz Aguilar
 
 ### License
-[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
+[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-### Support
+# Support
 
-> Email us! 💌
+### FAQ ⁉
+[Check our Wiki](https://github.com/RodrigoPerezUbierna/BeDream/wiki) 
+
+### Email us! 💌
 > [Patricia](mailto:phf1001@alu.ubu.es) &nbsp;&middot;&nbsp;
 > [Houssam](mailto:bhx1005@alu.ubu.es) &nbsp;&middot;&nbsp;
 > [Rodrigo](mailto:rpu1002@alu.ubu.es) &nbsp;&middot;&nbsp;
