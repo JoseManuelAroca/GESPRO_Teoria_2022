@@ -7,9 +7,10 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 JMA modifica
 
 
-Alberto Santos Martínez
-Miguel Ubierna Gutiérrez
-Mario Sanz Perez
+#Alberto Santos Martínez
+##Miguel Ubierna Gutiérrez
+
+##Mario Sanz Perez
 
 Prueba
 
