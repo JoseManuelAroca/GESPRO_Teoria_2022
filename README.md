@@ -17,12 +17,18 @@ Andoni Ugalde Mesanza
 
 Proyecto: **NotasDN**
 
+#DESCRIPCIÓN DEL PROYECTO
+
 Descripcion del proyecto: Este proyecto consistirá en la creación de una aplicación para un instito, esta aplicación permitirá al estudiantado y al profesorado ver 
 y subir calificaciones, a mayores, permitirá subir videos, realizar reuniones, constará de un foro y de un repositorio propio.
+
+#ESTADO DEL PROYECTO
 
 Estado del proyecto: En desarrollo (Semana 0)
 Sprint planificado de: Sistema añadir notas (ID2) , Pagina Principal (ID3), Tutorial (ID5).
 Duración del sprint: 13,8
 
+
+#REQUISITOS DE ENTORNO
 Requisitos del entorno: Windows 7/8/10/11, IOS 15.2, Android 11
  
