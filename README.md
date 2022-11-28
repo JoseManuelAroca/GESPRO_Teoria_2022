@@ -6,14 +6,15 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 JMA modifica
 
-**Incluid debajo el nombre de los miembros del grupo:**
+#QUIENES SOMOS#
 
-Víctor Manuel Martínez García
+Somos un grupo de alumnos de la universidad de Burgos y estamos desarrollando una aplicación de gestión de notas. Nuestro grupo esta formado por:
 
-David Ibeas Morrondo
+Victor Martinez García como Proyect owner
 
-Andoni Ugalde Mesanza
+David Ibeas Morrondo como Scrum master
 
+Andoni Ugalde Mesanza como Desarollador 
 
 Proyecto: **NotasDN**
 
