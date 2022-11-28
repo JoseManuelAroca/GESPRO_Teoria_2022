@@ -10,7 +10,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 ## QUIENES SOMOS
 
-Somos un grupo de alumnos de la universidad de Burgos y estamos desarrollando una aplicación de gestión de notas. Nuestro grupo esta formado por:
+Somos un grupo de alumnos de la universidad de Burgos de 3º de carrera y hemos decidido desarrollar una aplicación de gestión de notas. Nuestro grupo esta formado por:
 
 Victor Martinez García como Product owner
 
