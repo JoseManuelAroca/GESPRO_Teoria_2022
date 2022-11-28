@@ -4,6 +4,10 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 # ÍNDICE
 
 - [QUIENES SOMOS](#QUIENES-SOMOS)
+- [DESCRIPCIÓN DEL PROYECTO](#DESCRIPCIÓN-DEL-PROYECTO)
+- [ESTADO DEL PROYECTO](#ESTADO-DEL-PROYECTO)
+- [REQUISITOS DE ENTORNO](#REQUISITOS-DE-ENTORNO)
+
 ## QUIENES SOMOS
 
 Somos un grupo de alumnos de la universidad de Burgos y estamos desarrollando una aplicación de gestión de notas. Nuestro grupo esta formado por:
