@@ -6,7 +6,7 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 JMA modifica
 
-#QUIENES SOMOS#
+# QUIENES SOMOS
 
 Somos un grupo de alumnos de la universidad de Burgos y estamos desarrollando una aplicación de gestión de notas. Nuestro grupo esta formado por:
 
@@ -26,8 +26,13 @@ y subir calificaciones, a mayores, permitirá subir videos, realizar reuniones, 
 # ESTADO DEL PROYECTO
 
 Estado del proyecto: En desarrollo (Semana 0)
-Sprint planificado de: Sistema añadir notas (ID2) , Pagina Principal (ID3), Tutorial (ID5).
-Duración del sprint: 13,8
+
+Sprint planificado de: 
+1. Sistema añadir notas (ID2)
+2. Pagina Principal (ID3)
+3. Tutorial (ID5).
+
+**Duración del sprint: 13,8**
 
 
 # REQUISITOS DE ENTORNO
