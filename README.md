@@ -10,7 +10,7 @@ JMA modifica
 
 Somos un grupo de alumnos de la universidad de Burgos y estamos desarrollando una aplicación de gestión de notas. Nuestro grupo esta formado por:
 
-Victor Martinez García como Proyect owner
+Victor Martinez García como Product owner
 
 David Ibeas Morrondo como Scrum master
 
