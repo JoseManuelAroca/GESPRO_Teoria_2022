@@ -14,3 +14,10 @@ David Ibeas Morrondo
 
 Andoni Ugalde Mesanza
 
+
+Proyecto: **NotasDN**
+
+Descripcion del proyecto: Este proyecto consistirá en la creación de una aplicación para un instito, esta aplicación permitirá al estudiantado y al profesorado ver 
+y subir calificaciones, a mayores, permitirá subir videos, realizar reuniones, constará de un foro y de un repositorio propio.
+
+Estado del proyecto: En desarrollo (Semana 0)
