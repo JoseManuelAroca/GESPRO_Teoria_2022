@@ -8,9 +8,8 @@ JMA modifica
 
    <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   <a href="https://github.com/Santinine/GESPRO_Teoria_2022/commit/c31171d33b1a964e129ce9038d3ac49988859523">
-   <img src="https://badgen.net/github/last-commit/Naereen/Strapdown.js">
-    </a>
+   
+   <img src="https://img.shields.io/github/last-commit/Santinine/GESPRO_Teoria_2022">
    </p>
   
 
@@ -27,7 +26,7 @@ Javier Pampliega García
 
 -   [Funcionalidades](#funcionalidades)
 -   [Preguntas frecuentes](#preguntas-frecuentes)
-    -   [¿Cual es la finalidad de CodeShare?](#¿cual-es-la-finalidad-de-codeshare?)
+    -   [¿Cual es la finalidad de CodeShare?](#cual-es-la-finalidad-de-codeshare)
     -   [¿Se pueden quitar los anuncios?](#¿cual-es-el-finalidad-de-codeshare?)
     -   [¿Posee grupos de trabajo?](#¿posee-grupos-de-trabajo?)
 -   [Feedback](#feedback)
