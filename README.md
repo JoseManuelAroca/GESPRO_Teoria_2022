@@ -8,6 +8,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 - [ESTADO DEL PROYECTO](#ESTADO-DEL-PROYECTO)
 - [REQUISITOS DE ENTORNO](#REQUISITOS-DE-ENTORNO)
 - [GUÍA DE INSTALACIÓN](#GUÍA-DE-INSTALACIÓN)
+- [TECNOLOGÍAS UTILIZADAS](#TECNOLOGÍAS-UTILIZADAS)
 
 ## QUIENES SOMOS 🚻
 
@@ -56,3 +57,12 @@ La aplicación estará disponible para su descarga tanto en la Appel Store como 
 La aplicación no requiere de permisos especiales para su ejecución, independientemente de la opción de uso escogida o el dispositivo seleccionado para su uso. Tras descargar la aplicación, será necesario acceder mediante un login. En el caso de no disponer de un usuario y contraseña previo, será necesario que se ponga en contacto previo con su centro educativo para que le puedan facilitar el correo electrónico y una contrseña.
 
 Tras entrar a la aplicación, tendrá acceso a todas las asignaturas de las que haya sido dado de alta donde podrá ver toda la información y las diversas opciones de las que dispone cada una de ellas.
+
+## TECNOLOGÍAS UTILIZADAS ⚛
+
+Para el desarrollo de la aplicación, se han utilizado las siguientes tecnologías:
+
+- Visual Studio Code(https://code.visualstudio.com)
+- Miro(https://miro.com/es/)
+- GitHub(https://github.com)
+- Jira(https://www.atlassian.com/software/jira)
