@@ -7,7 +7,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 - [DESCRIPCIÓN DEL PROYECTO](#DESCRIPCIÓN-DEL-PROYECTO)
 - [ESTADO DEL PROYECTO](#ESTADO-DEL-PROYECTO)
 - [REQUISITOS DE ENTORNO](#REQUISITOS-DE-ENTORNO)
-   - [Ordenador](#Ordenador)
+   - [Ordenador](#Ordenador-🖥️)
    - [Dispositivos móviles](#Dispositivos-móviles)   
 - [GUÍA DE INSTALACIÓN](#GUÍA-DE-INSTALACIÓN)
 - [TECNOLOGÍAS UTILIZADAS](#TECNOLOGÍAS-UTILIZADAS)
