@@ -13,3 +13,15 @@ JMA modifica
 ##Mario Sanz Perez
 
 <!-- Acerca del proyecto -->
+## Acerca del proyecto
+
+Hola buenas tardes
+
+* Tip 1
+* Tip 2
+* Tip 3
+
+
+Probabilidad `lectora` desfasante
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
