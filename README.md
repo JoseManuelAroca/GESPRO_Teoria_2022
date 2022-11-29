@@ -35,7 +35,7 @@ JMA modifica
 + Por último, la plataforma cuenta con un sistema de pagos para usuarios que deseen deshacerse de la publicidad
 
 
-# Preguntas frecuentes
+# :question: Preguntas frecuentes :question:
 
 ## **¿Cual es el finalidad de CodeShare?**
 El objetivo de nuestro proyecto es la creación de una aplicación para que usuarios de todo el mundo pueda compartir su pasión por la programación.
