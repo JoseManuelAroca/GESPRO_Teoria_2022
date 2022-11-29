@@ -117,13 +117,13 @@ Una vez instalada la aplicación, el usuario se encontrará con varias **funcion
 
 <!-- Preguntas frecuentes-->
 ## FAQ
-* **¿Es posible entrar a la aplicación siendo menor de edad?**
+* **¿Es posible entrar a la aplicación siendo menor de edad?**<br>
 Para acceder a la aplicación se debe introducir el DNI real para comprobar la edad y para controlar el acceso a ciertas personas.
-* **¿Puedo retirar mi dinero en cualquier momento?**
+* **¿Puedo retirar mi dinero en cualquier momento?**<br>
 Sí, todo el dinero pertenece al usuario y puede retirarlo cundo quiera.
-* **¿Mi información esta bien protegida?**
+* **¿Mi información esta bien protegida?**<br>
 Toda la información se guarda en una base de datos protegida de cualquier acceso no deseado.
-* **¿La aplicación informa de los ultimos resultados y de otra informacion de los equipos?**
+* **¿La aplicación informa de los ultimos resultados y de otra informacion de los equipos?**<br>
 A la hora de apostar en cualquier deporte la aplicación nos indica las últimas noticias/resultados para que se pueda apostar basandonos en algo fundamentado.
 
 <p align=“right”>(<a href="#readme-top">volver arriba</a>)</p>
