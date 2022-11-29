@@ -6,6 +6,9 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 JMA modifica
 
+   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
+
 # Indice
 
 -   [¿Cual es la finalidad de CodeShare](#¿cual-es-la-finalidad-de-codeshare)
