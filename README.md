@@ -20,17 +20,17 @@
         <ul>
         <li><a href="#gestión-de-usuarios">Gestión de usuarios</a></li>
         <li><a href="#apartado-deportivo">Apartado deportivo</a></li>
-        <li><a href="#gestión del dinero">Gestión del dinero</a></li>
+        <li><a href="#gestión-del-dinero">Gestión del dinero</a></li>
       </ul>
     </li>
-    <li><a href="#licencia-de-la-aplicacion">Licencia de la aplicación</a>
+    <li><a href="#licencia-de-la-aplicación">Licencia de la aplicación</a>
         <ul>
             <li><a href="#licencias-generales">Licencias generales</a></li>
             <li><a href="#requisitos-de-licencia-de-juego">Requisitos de licencia de juego</a>
                 <ul>
-                    <li><a href="#a.requisitos-juridicos">A.Requisitos jurídicos</a></li>
-                    <li><a href="#a.requisitos-económicos">B.Requisitos económicos</a></li>
-                    <li><a href="#a.requisitos-técnicos">C.Requisitos técnicos</a></li>
+                    <li><a href="#requisitos-jurídicos">A.Requisitos jurídicos</a></li>
+                    <li><a href="#requisitos-económicos">B.Requisitos económicos</a></li>
+                    <li><a href="#requisitos-técnicos">C.Requisitos técnicos</a></li>
                 </ul>
             </li>
         </ul>
