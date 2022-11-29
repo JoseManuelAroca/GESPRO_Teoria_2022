@@ -141,7 +141,7 @@ Su duración es de 10 años prorrogables por un periodo de idéntica duración.
 En este apartado se determinarán los requisitos para obtener la licencia de juego
 
 
-#### A.Requisitos jurídicos
+#### Requisitos jurídicos
 
 * Forma de sociedad anónima o forma societaria análoga, con domicilio social en un Estado perteneciente al Espacio Económico Europeo.
 * Presentar como objeto social único la organización, comercialización y explotación de juegos.
@@ -151,7 +151,7 @@ En este apartado se determinarán los requisitos para obtener la licencia de jue
 * No concurrir en ninguna de las circunstancias previstas en el artículo 13.2 de la Ley 13/2011, de 27 de mayo, de regulación del juego.
 
 
-#### B.Requisitos económicos
+#### Requisitos económicos
 
 * Declaraciones apropiadas de entidades financieras sobre la solvencia de la sociedad.
 * Cuentas anuales presentadas en el Registro Mercantil o en el Registro oficial que corresponda.
@@ -160,7 +160,7 @@ En este apartado se determinarán los requisitos para obtener la licencia de jue
 * Sin perjuicio de que la DGOJ, por razones justificadas, pueda autorizar al solicitante la acreditación de su solvencia económica y financiera por medio de cualquier otro documento que considerara apropiado.
 
 
-#### C.Requisitos ténicos
+#### Requisitos ténicos
 
 * Declaración indicando la estructura de personal técnico.
 * Experiencia profesional de los directivos de la entidad responsable del desarrollo de las actividades de juego objeto de la licencia.
