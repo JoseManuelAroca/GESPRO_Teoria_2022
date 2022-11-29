@@ -8,8 +8,14 @@ JMA modifica
 
    <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <a href="https://GitHub.com/Naereen/StrapDown.js/commit/">
+   <img src="https://badgen.net/github/last-commit/Naereen/Strapdown.js">
+    </a>
    </p>
-   
+  
+   [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+
+
 **Incluid debajo el nombre de los miembros del grupo:**
 
 Sergio Martín Reizábal
