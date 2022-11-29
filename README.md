@@ -15,6 +15,8 @@ JMA modifica
 <!-- Acerca del proyecto -->
 ## Acerca del proyecto
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 Hola buenas tardes
 
 * Tip 1
