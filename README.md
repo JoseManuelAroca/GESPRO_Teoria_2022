@@ -62,7 +62,7 @@ Tras entrar a la aplicación, tendrá acceso a todas las asignaturas de las que 
 
 Para el desarrollo de la aplicación, se han utilizado las siguientes tecnologías:
 
-- Visual Studio Code(https://code.visualstudio.com)
-- Miro(https://miro.com/es/)
-- GitHub(https://github.com)
-- Jira(https://www.atlassian.com/software/jira)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Miro](https://miro.com/es/)
+- [GitHub](https://github.com)
+- [Jira](https://www.atlassian.com/software/jira)
