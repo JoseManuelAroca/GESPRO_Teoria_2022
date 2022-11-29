@@ -38,6 +38,8 @@ Ubugram tendra dos tipos de perfil:
 
 
 JMA modifica
+**TAREAS CORRESPONDIENTES A CADA USUARIO**
+Vamos a detallar lo siguiente
 
 <!-- 
 COMENTARIOS:
