@@ -23,5 +23,3 @@ Sergio Martín Reizábal
 Santiago Rodríguez Diez
 Javier Pampliega García
 Óscar Merino Martínez
-PRUEBA
-
