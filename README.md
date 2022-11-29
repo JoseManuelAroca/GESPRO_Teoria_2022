@@ -12,8 +12,4 @@ JMA modifica
 
 ##Mario Sanz Perez
 
-Prueba
-
-Prueba 2
-
-sdasdasdq
+<!-- Acerca del proyecto -->
