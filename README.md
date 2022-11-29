@@ -12,7 +12,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 - [GUÍA DE INSTALACIÓN](#GUÍA-DE-INSTALACIÓN)
 - [TECNOLOGÍAS UTILIZADAS](#TECNOLOGÍAS-UTILIZADAS)
 
-## QUIENES SOMOS 🚻
+## QUIENES SOMOS🚻
 
 Somos un grupo de alumnos de la universidad de Burgos de 3º de Ingeniería informática y hemos decidido desarrollar una aplicación de gestión de notas. Nuestro grupo esta formado por:
 
@@ -60,7 +60,7 @@ La aplicación no requiere de permisos especiales para su ejecución, independie
 
 Tras entrar a la aplicación, tendrá acceso a todas las asignaturas de las que haya sido dado de alta donde podrá ver toda la información y las diversas opciones de las que dispone cada una de ellas.
 
-## TECNOLOGÍAS UTILIZADAS ⚛
+## TECNOLOGÍAS UTILIZADAS⚛
 
 Para el desarrollo de la aplicación, se han utilizado las siguientes tecnologías:
 
