@@ -41,10 +41,12 @@ Sprint planificado de:
 Nuestra apliacación es apta para todo tipo de entorno gráfico, desde un dispositivo movil hasta en su versión de navegador, incluso está la opción de desgargar en el propio dispotivio una versión apk del programa.
 
 - Ordenador🖥️
+
 La aplicación tien soporte para navegadores web. Es compatible para todas las versiones de Google Chrome, Firefox, Opera, etc. 
 El requisito mínimo que necesita es una versión de Windosw 7 en adelante.
 Este requisito es necesario para la versión APK del programa.
 
 - Dispositivos móviles📱
+
 La aplicación estará disponible para su desgarga tanto en la Appel Store como en la Google Play Store. Estos dispositivos necesitan una versión de IOS igual o superior a la 15.2 o en la versión Android igual o superior a la 11. Este requisito es imprescindible para poder ofertar una estabilidad y un buen funcionamiento de la aplicación.
  
