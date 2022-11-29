@@ -9,7 +9,7 @@ JMA modifica
 ## **¿Cual es el finalidad de CodeShare?**
 El objetivo de nuestro proyecto es la creación de una aplicación para que usuarios de todo el mundo pueda compartir su pasión por la programación.
 
-## **¿Que funcionalidades proporciona CodeShare?
+## **¿Que funcionalidades proporciona CodeShare?**
 CodeShare permite a los usuarios subir sus proyectos de programación a la plataforma para que otros usuarios puedan descargarlos.
 
 Una vez descargados los proyectos, CodeShare permitirá ejecutarlos en la propia plataforma sin necesidad de utilizar los recursos de nuestro ordenador.
