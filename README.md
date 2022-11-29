@@ -44,7 +44,7 @@ Sprint planificado de:
 ## REQUISITOS DE ENTORNO
 Nuestra apliacación es apta para todo tipo de entorno gráfico, desde un dispositivo movil hasta en su versión de navegador, incluso está la opción de desgargar en el propio dispotivio una versión apk del programa.
 
-- #### Ordenador
+- #### Ordenador🖥
 
 La aplicación tiene soporte para navegadores web. Es compatible para todas las versiones de Google Chrome, Firefox, Opera, etc. 
 El requisito mínimo que necesita es una versión de Windosw 7 en adelante.
