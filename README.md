@@ -8,11 +8,11 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 - [ESTADO DEL PROYECTO](#ESTADO-DEL-PROYECTO)
 - [REQUISITOS DE ENTORNO](#REQUISITOS-DE-ENTORNO)
    - [Ordenador](#Ordenador)
-   - [Dispositivos móviles](#Dispositivos-móviles)   
+   - [Dispositivos móviles](Dispositivos-móviles)   
 - [GUÍA DE INSTALACIÓN](#GUÍA-DE-INSTALACIÓN)
 - [TECNOLOGÍAS UTILIZADAS](#TECNOLOGÍAS-UTILIZADAS)
 
-## QUIENES SOMOS🚻
+## QUIENES SOMOS 🚻
 
 Somos un grupo de alumnos de la universidad de Burgos de 3º de Ingeniería informática y hemos decidido desarrollar una aplicación de gestión de notas. Nuestro grupo esta formado por:
 
