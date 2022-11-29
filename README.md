@@ -30,6 +30,7 @@ Javier Pampliega García
     -   [¿Cual es la finalidad de CodeShare?](#¿cual-es-la-finalidad-de-codeshare)
     -   [¿Se pueden quitar los anuncios?](#¿se-pueden-quitar-los-anuncios)
     -   [¿Posee grupos de trabajo?](#¿posee-grupos-de-trabajo?)
+-   [Feedback](#feedback)
 
 
 # Funcionalidades
@@ -58,3 +59,12 @@ No obstante la plataforma es totalmente gratuita y se puede acceder a todas sus 
 ## **¿Posee grupos de trabajo?**
 
 CodeShare tiene la posibilidad de formar grupos de trabajo en los que haya un "jefe de grupo" que pueda invitar a gente, dando tanto roles como permisos.
+
+
+# Feedback
+
+Nuestro proyecto tiene presente el objetivo de arreglar y mejorar la plataforma día a día, y para ello creemos que la mejor forma es escuchando y atendiendo a los problemas y reportes de los usuarios.
+
+Por ello desde codeshare queremos incitar a todos nuestros usuarios a contribuir con el desarrollo y la mejora de nuestra plataforma, reportando y documentando cualquier tipo de problemas o bugs que estos se vayan encontrando con el tiempo.
+
+También estaremos encantados de escuchar y considrear todo tipo de propuestas de mejora y cambio.
