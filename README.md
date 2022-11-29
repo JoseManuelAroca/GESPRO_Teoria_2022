@@ -26,6 +26,7 @@ Los usuarios podran subir una publicacion de dos maneras:
 
 **FEED**
 Como previamente dicho, los usuarios veran las publicaciones subidas por los usuarios a los que siguen. Podran reaccionar a la publicacion de varias maneras:
+
     - Like: Es una caracteristica comun entre este tipo de redes sociales en la cual si al usuario le gusta una publicacion, le puede dar like y se mantendra la cuenta de los likes totales que tiene una publicacion. 
 
 **DIRECT**
