@@ -44,6 +44,31 @@ Ubugram tendra dos tipos de perfil:
 JMA modifica
 ## TAREAS CORRESPONDIENTES A CADA USUARIO
 
+Las tareas se dividen en tres tipos:
+
+### **CREACION DE USUARIOS**
+
+    - Crear Usuario:  Esta funcion es para crear la cuenta del usuario y poder empezar a utilizar la aplicacion.
+    - Log In: Esta funcion es para poder iniciar sesion en la aplicacion desde un dispositivo. 
+    - Log Out: Esta funcion es para poder cerrar la sesion de un dispositivo.
+    - Recuperar Contraseña: Esta tarea sirve para recuperar la contraseña en el caso de que el usuario no se acuerde.
+    - Eliminar Cuenta: Esta tarea permite eliminar la cuenta por completo.
+    - Plan Premium: Esta tarea permitirá al usuario poder disfrutar de un plan con más ventajas y mejor accesibilidad
+
+### **TAREAS GENERALES**
+
+    - Crear Publicacion: El usuario podrá crear de cero cualquier publicación que quiera subir a la red social
+    - Dar Like: Esta tarea dara la posibilidad de dar like a una publicacion.
+    - Subir Historia:Esta tarea dejara al usuario subir una historia la cual podra ser visto por el resto de usuarios. 
+    - Comentar: Esta tarea dara la posibilidad de poder comentar en una publicacion. 
+    - Editar Foto: El usuario tendra la posibilidad de editar cualquier foto subida previamente y actualmente en la aplicacion. 
+    - Reaccionar a historia: EL usuario podra mostrar con emoticonos o texto su opinion sobre las historias de las personas que sigue. 
+    - Compartir publicacion: El usuario podra una vez subida una publicacion pasarsela por mensaje a otros seguidores para que la puedan ver directamente. 
+    - Mandar Mensaje: El usuario podra mandar un mensaje con texto y emoticonos a cualquier seguidor que desee o a cualquier grupo de conversacion. 
+
+### **CREACION DE USUARIOS**
+
+    - Atencion al Cliente:
 
 <!-- 
 COMENTARIOS:
