@@ -51,8 +51,11 @@ Una vez descargados los proyectos, CodeShare permitirá ejecutarlos en la propia
 Otra funcionalidad es la del foro de dudas, cualquier usuario que tenga una duda acerca de algún campo de la programación podrá publicar la pregunta y otros usuarios podrán responderle. El usuario que inició la pregunta podrá valorar las respuestas obtenidas de los otros usuarios en función de su funcionalidad.
 
 
-## **¿Se pueden quitar los anuncios?
+## **¿Se pueden quitar los anuncios?**
 CodeShare da la posibilidad a los usuarios de pagar 10€ al año para quitar la publicidad de la web.
 No obstante la plataforma es totalmente gratuita y se puede acceder a todas sus funcionalidades sin costo adicional.
 
 
+## **¿Posee grupos de trabjo?**
+
+CodeShare tiene la posibilidad de formar grupos de trabajo en los que haya un "jefe de grupo" que pueda invitar a gente, dando tanto roles como permisos.
