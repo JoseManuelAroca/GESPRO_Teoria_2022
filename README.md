@@ -8,11 +8,11 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 - [ESTADO DEL PROYECTO](#ESTADO-DEL-PROYECTO)
 - [REQUISITOS DE ENTORNO](#REQUISITOS-DE-ENTORNO)
    - [Ordenador](#Ordenador)
-   - [Dispositivos móviles](Dispositivos-móviles)   
+   - [Dispositivos móviles](#Dispositivos-móviles)   
 - [GUÍA DE INSTALACIÓN](#GUÍA-DE-INSTALACIÓN)
 - [TECNOLOGÍAS UTILIZADAS](#TECNOLOGÍAS-UTILIZADAS)
 
-## QUIENES SOMOS 🚻
+## QUIENES SOMOS🚻
 
 Somos un grupo de alumnos de la universidad de Burgos de 3º de Ingeniería informática y hemos decidido desarrollar una aplicación de gestión de notas. Nuestro grupo esta formado por:
 
@@ -44,13 +44,13 @@ Sprint planificado de:
 ## REQUISITOS DE ENTORNO🖥️📱
 Nuestra apliacación es apta para todo tipo de entorno gráfico, desde un dispositivo movil hasta en su versión de navegador, incluso está la opción de desgargar en el propio dispotivio una versión apk del programa.
 
-- Ordenador🖥️
+- Ordenador 🖥️
 
 La aplicación tiene soporte para navegadores web. Es compatible para todas las versiones de Google Chrome, Firefox, Opera, etc. 
 El requisito mínimo que necesita es una versión de Windosw 7 en adelante.
 Este requisito es necesario para la versión APK del programa.
 
-- Dispositivos móviles📱
+- Dispositivos móviles 📱
 
 La aplicación estará disponible para su descarga tanto en la Appel Store como en la Google Play Store. Estos dispositivos necesitan una versión de IOS igual o superior a la 15.2 o en la versión Android igual o superior a la 11. Este requisito es imprescindible para poder ofertar una estabilidad y un buen funcionamiento de la aplicación.
  
@@ -60,7 +60,7 @@ La aplicación no requiere de permisos especiales para su ejecución, independie
 
 Tras entrar a la aplicación, tendrá acceso a todas las asignaturas de las que haya sido dado de alta donde podrá ver toda la información y las diversas opciones de las que dispone cada una de ellas.
 
-## TECNOLOGÍAS UTILIZADAS ⚛
+## TECNOLOGÍAS UTILIZADAS⚛
 
 Para el desarrollo de la aplicación, se han utilizado las siguientes tecnologías:
 
