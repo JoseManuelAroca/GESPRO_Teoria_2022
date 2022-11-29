@@ -68,7 +68,7 @@ Las tareas se dividen en tres tipos:
 
 ### **CREACION DE USUARIOS**
 
-    - Atencion al Cliente:
+- Atencion al Cliente:
 
 <!-- 
 COMENTARIOS:
