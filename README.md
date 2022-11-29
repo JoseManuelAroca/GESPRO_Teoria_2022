@@ -59,7 +59,7 @@ Por ello desde codeshare queremos incitar a todos nuestros usuarios a contribuir
 
 También estaremos encantados de escuchar y considrear todo tipo de propuestas de mejora y cambio.
 
-# **Miembros**
+# :busts_in_silhouette: **Miembros** :busts_in_silhouette:
 
 + Sergio Martín Reizábal
 + Santiago Rodríguez Diez
