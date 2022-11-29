@@ -27,8 +27,8 @@ Javier Pampliega García
 
 -   [Funcionalidades](#funcionalidades)
 -   [Preguntas frecuentes](#preguntas-frecuentes)
-    -   [¿Cual es la finalidad de CodeShare?](#¿cual-es-la-finalidad-de-codeshare)
-    -   [¿Se pueden quitar los anuncios?](#¿se-pueden-quitar-los-anuncios)
+    -   [¿Cual es la finalidad de CodeShare?](#¿cual-es-la-finalidad-de-codeshare?)
+    -   [¿Se pueden quitar los anuncios?](#¿cual-es-el-finalidad-de-codeshare?)
     -   [¿Posee grupos de trabajo?](#¿posee-grupos-de-trabajo?)
 -   [Feedback](#feedback)
 
