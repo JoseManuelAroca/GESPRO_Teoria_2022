@@ -66,3 +66,7 @@ Para el desarrollo de la aplicación, se han utilizado las siguientes tecnologí
 - [Miro](https://miro.com/es/)
 - [GitHub](https://github.com)
 - [Jira](https://www.atlassian.com/software/jira)
+- [HTML5](https://es.wikipedia.org/wiki/HTML5)
+- [CSS](https://es.wikipedia.org/wiki/CSS)
+- [PHP](https://www.php.net/)
+- [MongoDB](https://www.mongodb.com/home)
