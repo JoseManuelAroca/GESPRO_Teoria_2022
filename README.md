@@ -42,6 +42,20 @@ Generating pre-built zip archives for distribution:
 gulp build dist --prod
 ```
 
+### Docker
+
+BeDream is very easy to install and deploy in a Docker container.
+
+
+```sh
+cd bedream
+docker build -t <youruser>/bedream:${package.json.version} .
+```
+
+This will create the image and pull in the necessary dependencies.
+Be sure to swap out `${package.json.version}` with the actual
+version of BeDream.
+
 # Support
 
 ### FAQ ⁉
