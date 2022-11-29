@@ -29,6 +29,9 @@ Javier Pampliega García
 + Otra funcionalidad es la del foro de dudas, cualquier usuario que tenga una duda acerca de algún campo de la programación podrá publicar la pregunta y otros usuarios podrán responderle. El usuario que inició la pregunta podrá valorar las respuestas obtenidas de los otros usuarios en función de su funcionalidad.
 + La plataforma cuenta con editor de código cooperativo para poder desarrollar programas de forma colaborativa con otros usuarios
 + Contamos también con enlaces a las páginas oficiales de los diferentes códigos para poder consultar las documentaciones oficiales
++ Los usuarios pueden a su vez implementar tutoriales a la plataforma para no solo copartir codigo sino además ayudar al resto a aprender
++ Se pueden conectar también las cuentas de usuario con sus respectivas cuentas de github para poder importar y exportar documentos
++ Por último, la plataforma cuenta con un sistema de pagos para usuarios que deseen deshacerse de la publicidad
 
 
 # Preguntas frecuentes
