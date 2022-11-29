@@ -6,7 +6,10 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 JMA modifica
 
-   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+   <p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
+   
 **Incluid debajo el nombre de los miembros del grupo:**
 
 Sergio Martín Reizábal
