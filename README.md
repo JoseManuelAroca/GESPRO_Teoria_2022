@@ -8,12 +8,11 @@ JMA modifica
 
    <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   <a href="https://GitHub.com/Naereen/StrapDown.js/commit/">
+   <a href="https://github.com/Santinine/GESPRO_Teoria_2022/commit/c31171d33b1a964e129ce9038d3ac49988859523">
    <img src="https://badgen.net/github/last-commit/Naereen/Strapdown.js">
     </a>
    </p>
   
-   [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 
 
 **Incluid debajo el nombre de los miembros del grupo:**
