@@ -23,7 +23,7 @@ JMA modifica
 -   [Miembros](#miembros)
 
 
-# Funcionalidades
+# :receipt: Funcionalidades :receipt:
 
 + CodeShare permite a los usuarios subir sus proyectos de programación a la plataforma para que otros usuarios puedan descargarlos. 
 + Una vez descargados los proyectos, CodeShare permitirá ejecutarlos en la propia plataforma sin necesidad de utilizar los recursos de nuestro ordenador.
