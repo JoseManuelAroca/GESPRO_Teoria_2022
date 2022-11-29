@@ -14,7 +14,7 @@ Participantes de la apliación
 
 * Alberto Santos Martínez
 * Miguel Ubierna Gutiérrez
-* Mario Sanz Pere
+* Mario Sanz Perez
 
 A continuación se detallará información acerca de nuestra apliación de apuestas
 
