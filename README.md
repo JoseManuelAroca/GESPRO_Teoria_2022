@@ -6,6 +6,10 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 JMA modifica
 
+   <p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
+   
 **Incluid debajo el nombre de los miembros del grupo:**
 
 Sergio Martín Reizábal
@@ -27,6 +31,9 @@ Javier Pampliega García
 + CodeShare permite a los usuarios subir sus proyectos de programación a la plataforma para que otros usuarios puedan descargarlos. 
 + Una vez descargados los proyectos, CodeShare permitirá ejecutarlos en la propia plataforma sin necesidad de utilizar los recursos de nuestro ordenador.
 + Otra funcionalidad es la del foro de dudas, cualquier usuario que tenga una duda acerca de algún campo de la programación podrá publicar la pregunta y otros usuarios podrán responderle. El usuario que inició la pregunta podrá valorar las respuestas obtenidas de los otros usuarios en función de su funcionalidad.
++ La plataforma cuenta con editor de código cooperativo para poder desarrollar programas de forma colaborativa con otros usuarios
++ Contamos también con enlaces a las páginas oficiales de los diferentes códigos para poder consultar las documentaciones oficiales
+
 
 # Preguntas frecuentes
 
