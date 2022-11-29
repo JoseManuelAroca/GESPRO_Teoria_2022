@@ -45,8 +45,3 @@ CodeShare da la posibilidad a los usuarios de pagar 10€ al año para quitar la
 No obstante la plataforma es totalmente gratuita y se puede acceder a todas sus funcionalidades sin costo adicional.
 
 
-
-
-
-
-
