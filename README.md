@@ -14,13 +14,13 @@ JMA modifica
   
 # :ledger: Indice :ledger:
 
--   [Funcionalidades](#funcionalidades)
--   [Preguntas frecuentes](#preguntas-frecuentes)
+-   [Funcionalidades](#receipt-funcionalidades-receipt)
+-   [Preguntas frecuentes](#question-preguntas-frecuentes-questionentes)
     -   [¿Cual es la finalidad de CodeShare?](#¿cual-es-el-finalidad-de-codeshare)
     -   [¿Se pueden quitar los anuncios?](#¿cual-es-el-finalidad-de-codeshare?)
     -   [¿Posee grupos de trabajo?](#¿posee-grupos-de-trabajo?)
--   [Feedback](#feedback)
--   [Miembros](#miembros)
+-   [Feedback](#deafperson-feedback-deafwoman)
+-   [Miembros](#bustsinsilhouette-miembros-bustsinsilhouetteros)
 
 
 # :receipt: Funcionalidades :receipt:
