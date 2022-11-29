@@ -51,7 +51,7 @@ No obstante la plataforma es totalmente gratuita y se puede acceder a todas sus 
 CodeShare tiene la posibilidad de formar grupos de trabajo en los que haya un "jefe de grupo" que pueda invitar a gente, dando tanto roles como permisos.
 
 
-# **Feedback**
+# :deaf_person: **Feedback** :deaf_woman:
 
 Nuestro proyecto tiene presente el objetivo de arreglar y mejorar la plataforma día a día, y para ello creemos que la mejor forma es escuchando y atendiendo a los problemas y reportes de los usuarios.
 
