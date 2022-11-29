@@ -12,7 +12,10 @@ El objetivo de nuestro proyecto es la creación de una aplicación para que usua
 ## 
 
 **Incluid debajo el nombre de los miembros del grupo:**
+
 Sergio Martín Reizábal
 Santiago Rodríguez Diez
 Javier Pampliega García
 Óscar Merino Martínez
+PRUEBA
+
