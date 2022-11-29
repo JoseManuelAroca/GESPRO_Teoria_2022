@@ -6,7 +6,12 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 JMA modifica
 
-## **¿Cual es el finalidad de CodeShare?**
+# Indice
+
+-   [¿Cual es la finalidad de CodeShare](#¿cual-es-la-finalidad-de-codeshare)
+-   [Que funcionalidades proporciona CodeShare](#¿que-funcionalidades-proporciona-codeshare)
+
+## **¿Cual es la finalidad de CodeShare?**
 El objetivo de nuestro proyecto es la creación de una aplicación para que usuarios de todo el mundo pueda compartir su pasión por la programación.
 
 ## **¿Que funcionalidades proporciona CodeShare?**
@@ -15,6 +20,8 @@ CodeShare permite a los usuarios subir sus proyectos de programación a la plata
 Una vez descargados los proyectos, CodeShare permitirá ejecutarlos en la propia plataforma sin necesidad de utilizar los recursos de nuestro ordenador.
 
 Otra funcionalidad es la del foro de dudas, cualquier usuario que tenga una duda acerca de algún campo de la programación podrá publicar la pregunta y otros usuarios podrán responderle. El usuario que inició la pregunta podrá valorar las respuestas obtenidas de los otros usuarios en función de su funcionalidad.
+
+## **¿
 
 
 **Incluid debajo el nombre de los miembros del grupo:**
