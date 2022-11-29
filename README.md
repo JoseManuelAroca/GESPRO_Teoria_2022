@@ -7,8 +7,9 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 - [DESCRIPCIÓN DEL PROYECTO](#DESCRIPCIÓN-DEL-PROYECTO)
 - [ESTADO DEL PROYECTO](#ESTADO-DEL-PROYECTO)
 - [REQUISITOS DE ENTORNO](#REQUISITOS-DE-ENTORNO)
+- [GUÍA DE INSTALACIÓN](#GUÍA-DE-INSTALACIÓN)
 
-## QUIENES SOMOS
+## QUIENES SOMOS 🚻
 
 Somos un grupo de alumnos de la universidad de Burgos de 3º de Ingeniería informática y hemos decidido desarrollar una aplicación de gestión de notas. Nuestro grupo esta formado por:
 
@@ -20,7 +21,7 @@ Andoni Ugalde Mesanza como Desarollador
 
 Proyecto: **NotasDN**
 
-## DESCRIPCIÓN DEL PROYECTO
+## DESCRIPCIÓN DEL PROYECTO📝
 
 Descripcion del proyecto: Este proyecto consistirá en la creación de una aplicación para un instito, esta aplicación permitirá al estudiantado y al profesorado ver 
 y subir calificaciones, a mayores, permitirá subir videos, realizar reuniones, constará de un foro y de un repositorio propio.
@@ -37,7 +38,7 @@ Sprint planificado de:
 **Duración del sprint: 13,8**
 
 
-## REQUISITOS DE ENTORNO
+## REQUISITOS DE ENTORNO🖥️📱
 Nuestra apliacación es apta para todo tipo de entorno gráfico, desde un dispositivo movil hasta en su versión de navegador, incluso está la opción de desgargar en el propio dispotivio una versión apk del programa.
 
 - Ordenador🖥️
@@ -50,3 +51,8 @@ Este requisito es necesario para la versión APK del programa.
 
 La aplicación estará disponible para su descarga tanto en la Appel Store como en la Google Play Store. Estos dispositivos necesitan una versión de IOS igual o superior a la 15.2 o en la versión Android igual o superior a la 11. Este requisito es imprescindible para poder ofertar una estabilidad y un buen funcionamiento de la aplicación.
  
+## GUÍA DE INSTALACIÓN🔧
+
+La aplicación no requiere de permisos especiales para su ejecución, independientemente de la opción de uso escogida o el dispositivo seleccionado para su uso. Tras descargar la aplicación, será necesario acceder mediante un login. En el caso de no disponer de un usuario y contraseña previo, será necesario que se ponga en contacto previo con su centro educativo para que le puedan facilitar el correo electrónico y una contrseña.
+
+Tras entrar a la aplicación, tendrá acceso a todas las asignaturas de las que haya sido dado de alta donde podrá ver toda la información y las diversas opciones de las que dispone cada una de ellas.
