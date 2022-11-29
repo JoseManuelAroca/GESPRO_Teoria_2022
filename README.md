@@ -8,3 +8,4 @@ JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
 Juan Garcia Lopez
+Sergio Alonso Garcia
