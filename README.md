@@ -41,7 +41,7 @@ Sprint planificado de:
 **Duración del sprint: 13,8**
 
 
-## REQUISITOS DE ENTORNO🖥️📱
+## REQUISITOS DE ENTORNO
 Nuestra apliacación es apta para todo tipo de entorno gráfico, desde un dispositivo movil hasta en su versión de navegador, incluso está la opción de desgargar en el propio dispotivio una versión apk del programa.
 
 - Ordenador🖥️
