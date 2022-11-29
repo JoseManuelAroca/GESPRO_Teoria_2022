@@ -8,10 +8,11 @@ JMA modifica
 
 # Indice
 
--   [¿Cual es la finalidad de CodeShare](#¿cual-es-la-finalidad-de-codeshare)
--   [Que funcionalidades proporciona CodeShare](#¿que-funcionalidades-proporciona-codeshare)
+-   [Preguntas frecuentes](#preguntas-frecuentes)
+    -   [¿Cual es la finalidad de CodeShare?](#¿cual-es-la-finalidad-de-codeshare)
+    -   [¿Que funcionalidades proporciona CodeShare?](#¿que-funcionalidades-proporciona-codeshare)
 
-## **¿Cual es la finalidad de CodeShare?**
+
 # Preguntas frecuentes
 
 ## **¿Cual es el finalidad de CodeShare?**
