@@ -1,7 +1,7 @@
-##### GESPRO_Teoria_2022
+## GESPRO_Teoria_2022
 <a name="readme-top"></a>
 
-#### Aplicación de apuestas deportivas
+### Aplicación de apuestas deportivas
 
 Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2022/23. Universidad de Burgos.
 
@@ -19,7 +19,8 @@ Participantes de la apliación
 A continuación se detallará información acerca de nuestra apliación de apuestas
 
 <!-- Descripción -->
-### Descripción
+## Descripción
+### Subtitulo
 Nuestra aplicación se centra en las apuestas deportivas 
 
 
