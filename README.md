@@ -12,7 +12,7 @@ JMA modifica
    <img src="https://img.shields.io/github/last-commit/Santinine/GESPRO_Teoria_2022">
    </p>
   
-# Indice
+# :ledger: Indice :ledger:
 
 -   [Funcionalidades](#funcionalidades)
 -   [Preguntas frecuentes](#preguntas-frecuentes)
