@@ -15,11 +15,14 @@ Javier Pampliega García
 
 # Indice
 
+-   [¿Cual es la finalidad de CodeShare?](#¿cual-es-la-finalidad-de-codeshare)
 -   [Funcionalidades](#funcionalidades)
 -   [Preguntas frecuentes](#preguntas-frecuentes)
-    -   [¿Cual es la finalidad de CodeShare?](#¿cual-es-la-finalidad-de-codeshare)
 
 
+
+## **¿Cual es el finalidad de CodeShare?**
+El objetivo de nuestro proyecto es la creación de una aplicación para que usuarios de todo el mundo pueda compartir su pasión por la programación.
 
 # Funcionalidades
 
@@ -28,7 +31,6 @@ Javier Pampliega García
 + Otra funcionalidad es la del foro de dudas, cualquier usuario que tenga una duda acerca de algún campo de la programación podrá publicar la pregunta y otros usuarios podrán responderle. El usuario que inició la pregunta podrá valorar las respuestas obtenidas de los otros usuarios en función de su funcionalidad.
 # Preguntas frecuentes
 
-## **¿Cual es el finalidad de CodeShare?**
-El objetivo de nuestro proyecto es la creación de una aplicación para que usuarios de todo el mundo pueda compartir su pasión por la programación.
+
 
 
