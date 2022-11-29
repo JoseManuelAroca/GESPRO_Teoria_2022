@@ -24,6 +24,8 @@ Nuestra aplicación se centra en las apuestas deportivas de varios deportes, por
 
 <img height = "100" width = "100" src="soccer-ball_39433.png" align="left"/>
 
+<br>
+
 Una vez entrado en un apartado de un deporte, podrá ver una lista de los proximos partidos en orden descendente desde el próximo hasta el de dentro de una semana. Si el usuario selecciona un partido, entrará en una interfaz nueva en la que podrá elegir el ganador del partido o en caso de probabilidad de empate, tambien podrá elegir empate (en formula uno no hay empate). Al igual que elegir quien es el ganador del partido, podrá seleccionar cual será el posible resultado del partido, si van a acabar 1-2 o 4-0 por ejemplo.
 
 
