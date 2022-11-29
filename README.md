@@ -6,6 +6,13 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 JMA modifica
 
+**Incluid debajo el nombre de los miembros del grupo:**
+
+Sergio Martín Reizábal
+Santiago Rodríguez Diez
+Javier Pampliega García
+Óscar Merino Martínez
+
 # Indice
 
 -   [Funcionalidades](#funcionalidades)
@@ -25,9 +32,3 @@ JMA modifica
 El objetivo de nuestro proyecto es la creación de una aplicación para que usuarios de todo el mundo pueda compartir su pasión por la programación.
 
 
-**Incluid debajo el nombre de los miembros del grupo:**
-
-Sergio Martín Reizábal
-Santiago Rodríguez Diez
-Javier Pampliega García
-Óscar Merino Martínez
