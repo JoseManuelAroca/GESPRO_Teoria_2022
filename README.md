@@ -29,20 +29,31 @@ Nuestra aplicación se centra en las apuestas deportivas de varios deportes, por
 <br>
 <br>
 <br>
-<br>
 
-Una vez entrado en un apartado de un deporte, podrá ver una lista de los proximos partidos en orden descendente desde el próximo hasta el de dentro de una semana. Si el usuario selecciona un partido, entrará en una interfaz nueva en la que podrá elegir el ganador del partido o en caso de probabilidad de empate, tambien podrá elegir empate (en formula uno no hay empate). Al igual que elegir quien es el ganador del partido, podrá seleccionar cual será el posible resultado del partido, si van a acabar 1-2 o 4-0 por ejemplo.
+Una vez entrado en un apartado de un deporte, podrá ver una lista de los proximos partidos en orden descendente desde el próximo hasta el de dentro de una semana. Si el usuario selecciona un partido, entrará en una interfaz nueva en la que podrá elegir el ganador del partido o en caso de probabilidad de empate, tambien podrá elegir empate (en formula uno no hay empate). Al igual que elegir quien es el ganador del partido, podrá seleccionar cual será el posible resultado del partido, si van a acabar 1-2 o 4-0, por ejemplo. Una vez elegido el resultado, dirá cuanta cantidad de dinero quiere invertir en dicha apuesta y le aparecerá el balance de cuanto ganará en caso de acierto. Para meter el dinero en la cuenta lo podrá hacer de varias formas entre las cuales están Paypal y transferencia del banco, se dirá cuanto dinero quieren introducir y se pasará en dinero a la cuenta en un periodo máximo de 3 días laborales.
 
-
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
 <!-- Requisitos -> +18, dispositivo movil/PC -->
 ## Requisitos
+Para poder usar esta aplicación se tendrán que cumplir unos requisitos, los cuales serán:
+<br>
+* Nuestra aplicación al ser de apuestas tendrá como principal requisito de que el usuario sea mayor de edad, siendo esta la edad de mayoría de edad para poder empezar a ser responsable de los actos de uno mismo.
+* Tener un ordenador o un teléfono móvil compatible con la aplicación
+* Documento de identidad del usuario en la que se vea que nuestro usuario tiene la mayoría de edad
+* Una foto del usuario para compararla con la del documento de identidad
 
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
 <!-- Instalación -->
 ## Instalación
+Para poder instalar esta apliación, el usuario tendrá que:
+* Podrá descargarla en su dispositivo a través de la Play Store en android o la App Store en apple. 
+* En un ordenador, se podrá acceder perfectamente a través de nuestra página web: https://aplicacionDeApuestas.example.com
 
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
+------
 Hola buenas tardes
 
 * Tip 1
