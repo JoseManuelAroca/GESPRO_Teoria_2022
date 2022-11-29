@@ -12,6 +12,9 @@ JMA modifica
 -   [Que funcionalidades proporciona CodeShare](#¿que-funcionalidades-proporciona-codeshare)
 
 ## **¿Cual es la finalidad de CodeShare?**
+# Preguntas frecuentes
+
+## **¿Cual es el finalidad de CodeShare?**
 El objetivo de nuestro proyecto es la creación de una aplicación para que usuarios de todo el mundo pueda compartir su pasión por la programación.
 
 ## **¿Que funcionalidades proporciona CodeShare?**
@@ -22,6 +25,10 @@ Una vez descargados los proyectos, CodeShare permitirá ejecutarlos en la propia
 Otra funcionalidad es la del foro de dudas, cualquier usuario que tenga una duda acerca de algún campo de la programación podrá publicar la pregunta y otros usuarios podrán responderle. El usuario que inició la pregunta podrá valorar las respuestas obtenidas de los otros usuarios en función de su funcionalidad.
 
 ## **¿
+
+
+
+
 
 
 **Incluid debajo el nombre de los miembros del grupo:**
