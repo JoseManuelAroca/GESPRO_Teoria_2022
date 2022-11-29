@@ -1,9 +1,45 @@
 <a name="readme-top"></a>
 
-## GESPRO_Teoria_2022
+# GESPRO_Teoria_2022
 ### Aplicación de apuestas deportivas
 
-#### Enuciado de la práctica
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Vea</summary>
+  <ol>
+    <li>
+      <ul>
+         <li><a href="#enunciado-de-la-práctica">Enunciado de la práctica</a></li>
+         <li><a href="#participantes-del-proyecto">Participantes del proyecto</a></li>
+      </ul>
+    </li>
+    <li><a href="#descripción">Descripción</a></li>
+    <li><a href="#requisitos">Requisitos</a></li>
+    <li><a href="#instalación">Instalación</a></li>
+    <li><a href="#usabilidad">Usabilidad</a>
+        <ul>
+        <li><a href="#gestión-de-usuarios">Gestión de usuarios</a></li>
+        <li><a href="#apartado-deportivo">Apartado deportivo</a></li>
+        <li><a href="#gestión del dinero">Gestión del dinero</a></li>
+      </ul>
+    </li>
+    <li><a href="#licencia-de-la-aplicacion">Licencia de la aplicación</a>
+        <ul>
+            <li><a href="#licencias-generales">Licencias generales</a></li>
+            <li><a href="#requisitos-de-licencia-de-juego">Requisitos de licencia de juego</a>
+                <ul>
+                    <li><a href="#a.requisitos-juridicos">A.Requisitos jurídicos</a></li>
+                    <li><a href="#a.requisitos-económicos">B.Requisitos económicos</a></li>
+                    <li><a href="#a.requisitos-técnicos">C.Requisitos técnicos</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li><a href="#contacto">Contacto</a></li>
+  </ol>
+</details>
+
+### Enuciado de la práctica
 Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2022/23. Universidad de Burgos.
 
 Para completar el trabajo de estudio en grupo en las sesiones de teoría, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
@@ -11,7 +47,7 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 JMA modifica
 
-### Participantes de la apliación
+### Participantes del proyecto
 
 * Alberto Santos Martínez
 * Miguel Ubierna Gutiérrez
@@ -54,17 +90,43 @@ Para poder instalar esta apliación, el usuario tendrá que:
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
-------
-Hola buenas tardes
 
-* Tip 1
-* Tip 2
-* Tip 3
+<!-- Funcionalidad de la aplicación -->
+## Usabilidad
+Una vez instalada la aplicación, el usuario se encontrará con varias **funciones** que puede realizar:
 
+### Gestión de Usuarios 
+1. El usuario puede registrarse usando la interfaz del login.
+2. Acceso a un perfil de usuario donde puede modificar informacion personal: *DNI*,*cuenta bancaria*,etc.
+3. Posibilidad de ver perfiles de "amigos".
+4. El usuario debe aceptar la politica de provacidad y los terminos y condiciones de uso de la información.
 
-Probabilidad `lectora` desfasante
+### Apartado deportivo
+1. Elegir el deporte por el que se desea apostar.
+2. Ver resultados a tiempo real.
+3. Notificaciones de interes para el usuario.
+4. Introducir importe para la apuesta.
+5. Posibilidad de combinar varias apuestas.
 
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
+### Gestión del dinero
+1. EL usuario puede ingresar y sacar dinero mediante el metodo de pago a su elección.
+2. Resumen estadistico de ganancias/perdidas.
+3. Retirada del dinero al final o en medio de un evento deportivo.
+
+<p align=“right”>(<a href="#readme-top">volver arriba</a>)</p>
+
+<!-- Preguntas frecuentes-->
+## FAQ
+* **¿Es posible entrar a la aplicación siendo menor de edad?**
+Para acceder a la aplicación se debe introducir el DNI real para comprobar la edad y para controlar el acceso a ciertas personas.
+* **¿Puedo retirar mi dinero en cualquier momento?**
+Sí, todo el dinero pertenece al usuario y puede retirarlo cundo quiera.
+* **¿Mi información esta bien protegida?**
+Toda la información se guarda en una base de datos protegida de cualquier acceso no deseado.
+* **¿La aplicación informa de los ultimos resultados y de otra informacion de los equipos?**
+A la hora de apostar en cualquier deporte la aplicación nos indica las últimas noticias/resultados para que se pueda apostar basandonos en algo fundamentado.
+
+<p align=“right”>(<a href="#readme-top">volver arriba</a>)</p>
 
 <!-- Licencia de la aplicación-->
 ## Licencia de la aplicación 
