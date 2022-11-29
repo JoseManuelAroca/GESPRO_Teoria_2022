@@ -12,10 +12,17 @@ JMA modifica
 
 ##Mario Sanz Perez
 
-<!-- Acerca del proyecto -->
-## Acerca del proyecto
+<!-- Descripción -->
+## Descripción
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+<!-- Requisitos -> +18, dispositivo movil/PC -->
+## Requisitos
+
+
+<!-- Instalación -->
+## Instalación
+
 
 Hola buenas tardes
 
