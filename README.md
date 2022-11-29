@@ -33,7 +33,7 @@ Los usuarios podran hablar directamente con otros usuarios a traves de conversac
 ### Tipos de Perfil
 Ubugram tendra dos tipos de perfil:
     - Privado: Este tipo de perfil permitira que cualquier usuario pueda ver sus publicaciones subidas actualmente y podra empezar a seguir a ese usuario sin cualquier tipo de permiso.
-    - Publico: En el caso de este tipo de perfil, solo los 
+    - Publico: En el caso de este tipo de perfil, solo los usuarios que le siguen pueden ver las publicaciones que tiene subida actualmente. Para poder empezar a seguir a este tipo de usuario se tendra que mandar la solicitud y luego el propio usuario decidira si aceptarla o no.
 
 
 
