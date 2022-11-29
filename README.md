@@ -160,7 +160,7 @@ En este apartado se determinarán los requisitos para obtener la licencia de jue
 * Sin perjuicio de que la DGOJ, por razones justificadas, pueda autorizar al solicitante la acreditación de su solvencia económica y financiera por medio de cualquier otro documento que considerara apropiado.
 
 
-#### Requisitos ténicos
+#### Requisitos técnicos
 
 * Declaración indicando la estructura de personal técnico.
 * Experiencia profesional de los directivos de la entidad responsable del desarrollo de las actividades de juego objeto de la licencia.
