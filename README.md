@@ -14,3 +14,7 @@ Rodrigo Grande Muñoz
 Adrián Ortega Moradillo
 
 Iker Dominguez Ibañez
+
+Descrición del proyecto:
+    Hemos desarrollado una aplicación denominada Ubuzun capaz de poder 
+    ver diferentes canales que te interesen , en los que incluye deportes, ver los difernetes resumenes de cada partido , obtener entrevistas exclusivas, también podrás ver series y películas, incluso podras hacer streaming todo ello con una subscripción mensual.
