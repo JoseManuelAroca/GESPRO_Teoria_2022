@@ -1,4 +1,5 @@
 
+align="center"
 # VER MAPAS DE MOTOR:
 
 **ID de la rama:** 
