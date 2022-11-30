@@ -1,12 +1,10 @@
-<div style="border-bottom:1px;"> 
-    
 
 <h1 align="center">
 VER MAPAS DE MOTOR:
 <h1/>
-<div/>
 
-<div>
+<div style="border-bottom:1px;"> 
+    
 **ID de la rama:** 
 ```
 4
