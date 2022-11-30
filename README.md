@@ -15,7 +15,7 @@ Rodrigo Grande Muñoz
 Adrián Ortega Moradillo
 
 Iker Dominguez Ibañez
-
+# UBUZN
 ## FAQ
 - ¿Qué servicios ofrecemos?
 Los canales más importantes de la televisión, deportes, plataformas de streaming online y series / peliculas de la actualidad.
@@ -32,17 +32,36 @@ Ofrece todo nuestro catalogo de peliculas y series.
 - ¿Qué servcios ofrece UBUFull?
 Los servicios de UBUSport y UBUFlix juntos.
 
-#Estado del proyecto: 
 ## Estado del proyecto 
 El proyecto lo encontramos en una fase beta, el proyecto se encuentra totalmente planteado y contamos con los recuersos y empleados necesarios para su realización, una vez organizado todos los apartados y habiendo establecido unos tiempos para el proyecto mos pondremos en la realización de este lo antes posible.
 
 ## Entorno de desarrollo e integración    
  El entorno de producción del proyecto sera accesible y sencillo proporcionandole la mayor ágilidad posible, además en cuanto a su desarrollo contara con exhaustivas pruebas do software y test automátizados para comprobar que no haya problemas de su despliegue.
 
-#Guía instalación y funcionamiento:
-
 ## Guía instalación y funcionamiento
 En cuanto a la instalación del software sera una instalación sencilla para todo tipo de usuario contando con una guía que especificara a la perfección los pasos a seguir para la instalación, por otro lado, en cuanto a su funcionamiento, este sera bastante didáctico contando así con diferentes alternativas para la busqueada de canales y posibilidades que ofrece el software.
  
 
 Planteamos llevar el proyecto los más acuerdo a lo pleanteado, pero cualquier cambio producido será informado aquí. 
+
+
+## Entorno de desarrollo e integración    
+El entorno de producción del proyecto sera accesible y sencillo proporcionandole la mayor ágilidad posible, además en cuanto a su desarrollo contara con exhaustivas pruebas do software y test automátizados para comprobar que no haya problemas de su despliegue
+
+
+    Las teconologías usadas :
+    -Internet de las cosas o dispositivos conectados a la nube : el loT puede aplicarse al mantenimmiento predictivo de la maquinaria,para llevar mejor acabo el soporte técnico.
+
+    - Big Data :pora poder gestionar los datos de los clientes y  trabajadores de la empresa,tanto también para el análisi de datos.
+
+    -Tecnología inalámbrica: para que puedan conectarse desde cualquier lugar y así desempeñar mejor su utilización.
+
+    -Tecnología en vídeo:Para poder hacer entrevistas,y para poder desarrollar mejor la opción de streaming.
+
+    Fuentes de información:
+    1-https://www.pagepersonnel.es/advice/candidatos/desarrollo-profesional/cinco-nuevas-tecnolog%C3%ADas-que-cambiar%C3%A1n-tu-forma-de-trabajar
+
+    2- https://www.mujeresconsejeras.com/las-25-nuevas-tecnologias-que-triunfaran-entre-2015-2020/
+
+    
+    3- https://www.telcel.com/empresas/tendencias/notas/tecnologias-mas-utilizadas-en-empresas#:~:text=Internet%20de%20las%20Cosas%20(IoT,Realidad%20Aumentada%2FVirtual%3A%2070%25
