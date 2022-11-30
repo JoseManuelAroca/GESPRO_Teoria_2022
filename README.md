@@ -12,7 +12,6 @@ JMA modifica
 **VER MAPAS DE MOTOR:**
 =======
 
-**VER MAPAS DE MOTOR:**
 <br><br/>
 **ID de la rama:** 
 ```
