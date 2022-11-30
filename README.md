@@ -18,7 +18,7 @@ Rodrigo Rodriguez Fernandez
 <br><br/>
 **ID de la rama:** 
 ```
-2
+4
 ```
 <br><br/>
 
@@ -52,10 +52,10 @@ Por lo tanto, el tiempo final estimado es de 1.75 días
 
 <br><br/>
 
-**Condiciones de satisfacción: **
+**Condiciones de satisfacción:**
 ```
 - Permite oredenar la lista visualizada según la cantidad de tiempo de la sanción, la fecha, el corredor, ...
 - En cada sanción, se debe incluir una breve descripción del motivo y las consecuencias que conlleva.
 - Se incluirá un enlace en el acta de carrera con el informe oficial de la FIA
 ```
->>>>>>> Stashed changes
+
