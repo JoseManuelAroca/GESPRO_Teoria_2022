@@ -102,15 +102,18 @@ Las cookies y otras tecnologías indican a los sitios web o a ciertos servicios 
 ## Contacto:
 Para contactar con los desarrolladores y gestores del proyecto podéis escribir al siguiente correo:
 **sag1011@alu.ubu.es**
+
 Para un servicio de atención al cliente contactar en el sigueinte telefono:
 643123920219834
 
 ## Preguntas frecuentes
-**¿Que hago si me da error al subir una publicación?**
+**1.¿Que hago si me da error al subir una publicación?**
 Prueba a revisar tu conexión a internet y abre de nuevo la app para intentarlo de nuevo. En caso de seguir con el mismo error no dude en contactar con atención al cliente.
-**No conozco a alguién que me ha hablado por el chat¿Que puedo hacer?**
+
+**2.No conozco a alguién que me ha hablado por el chat¿Que puedo hacer?**
 Siempre tienes la opción de bloquear a cualquier usuario que no desees que vea tu spublicaciones y en unos segundos desaparecerá tu perfil de su cuenta
-**¿Es una web segura?**
+
+**3.¿Es una web segura?**
 Trabajamos día a día para que sea una aplicación y una web en la que nuestros usuarios estén seguros
 
 ## Derechos de autor:
@@ -119,7 +122,7 @@ Juan García López y Sergio Alonso García.
 Cualquier utilización ilegal de el nombre de la marca será sancionado de acuerdo a la legislación vigente
 
 
-**Incluid debajo el nombre de los miembros del grupo:**
+
 
 Juan Garcia Lopez
 Sergio Alonso Garcia
