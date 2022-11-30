@@ -68,7 +68,12 @@ Las tareas se dividen en tres tipos:
 
 ### **CREACION DE USUARIOS**
 
-- Atencion al Cliente:
+- Chat de Ayuda: Esta tarea permitira que el usuario pueda contactar a la atencion de cliente a traves de un chat con un bot programado para ayudar con las ayudas mas comunes y en el caso de que no le pueda ayudar, le guiara al usuario al resto de metodos de ayuda.
+- Correo de ayuda: Esta tarea le llevara al usuario al correo preferible de el mismo con la direccion de correo de ayuda de Ubugram en la que le intentaremos contestar lo antes posible. 
+- Telefono de Ayuda: Es lo mismo que el correo de ayuda pero en este caso la comunicacion entre el usuario y el personal de ayuda sera a traves del telefono. 
+- Cambio de tamaño de letra: Esta tarea permitira al usuario cambiar el tamaño de letra para que se ajuste lo mejor a sus necesidades.
+- Cambio de tematica: Esta tarea permite al usuario poder cambiar la tematica de la aplicacion entre dos elecciones: Oscura y clara. 
+- Cambio de Idioma: Esta tarea le da la posibilidad de cambiar el idioma de la interfaz de usuario al usuario.
 
 <!-- 
 COMENTARIOS:
@@ -79,6 +84,7 @@ COMENTARIOS:
 - Añadir fotos de explicacion. 
 - Perfil Premium (Creo que habiamos puesto perfil premium pero no se muy bien como implementarlo) 
 -->
+
 
 ## Política de datos
 Para proporcionar nuestro Servicio, debemos recopilar y usar tu información. En la Política de datos se explica cómo recopilamos, usamos y compartimos información a través de los distintos Productos de Meta. También se detalla cómo puedes controlar tu información, por ejemplo, desde la configuración de seguridad y privacidad de Ubugram.
@@ -120,9 +126,5 @@ Trabajamos día a día para que sea una aplicación y una web en la que nuestros
 La aplicación tiene cómo principales autores y desarrolladores a:
 Juan García López y Sergio Alonso García.
 Cualquier utilización ilegal de el nombre de la marca será sancionado de acuerdo a la legislación vigente
-
-
-
-
 Juan Garcia Lopez
 Sergio Alonso Garcia
