@@ -43,11 +43,6 @@ Planteamos llevar el proyecto los más acuerdo a lo establecido, pero cualquier 
 
 ## Guía instalación y funcionamiento
 En cuanto a la instalación del software sera una instalación sencilla para todo tipo de usuario contando con una guía que especificara a la perfección los pasos a seguir para la instalación, por otro lado, en cuanto a su funcionamiento, este sera bastante didáctico contando así con diferentes alternativas para la busqueada de canales y posibilidades que ofrece el software.
- 
-
-Derechos de autor y licencias: 
-
-Inscrito en el Registro de Porpiedad Intelectual y bajo la ley de Popiedad Intelectual en Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia.
 
 ## Entorno de desarrollo e integración    
 El entorno de producción del proyecto sera accesible y sencillo proporcionandole la mayor ágilidad posible, además en cuanto a su desarrollo contara con exhaustivas pruebas do software y test automátizados para comprobar que no haya problemas de su despliegue
