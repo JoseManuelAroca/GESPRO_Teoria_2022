@@ -10,7 +10,7 @@ JMA modifica
 - [Luis Ángel Espinosa Lafuente](https://github.com/fravian99)  
 
 ## Descripción
-**Web de Apuntes** es una página que permite a estudiantes de todos los cursos, carreras y formaciones compartir sus apuntes y descargar los de otros y así poderse ayudar entre ellos.
+**Web de Apuntes** es una página que permite a estudiantes de todos los cursos, carreras y formaciones compartir sus apuntes y descargar los de otros para así poderse ayudar entre ellos.
 ## Funciones  
 - ADMINISTRACIÓN DE USUARIOS
     - Registro de usuarios 
