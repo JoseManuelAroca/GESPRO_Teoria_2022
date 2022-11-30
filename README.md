@@ -1,9 +1,9 @@
 
-<h1 align="center">
+<h3 align="center">
 VER MAPAS DE MOTOR:
-<h1/>
+<h3/>
 
-<div > 
+
     
 **ID de la rama:** 
 ```
@@ -47,4 +47,4 @@ Por lo tanto, el tiempo final estimado es de 1.75 días
 - En cada sanción, se debe incluir una breve descripción del motivo y las consecuencias que conlleva.
 - Se incluirá un enlace en el acta de carrera con el informe oficial de la FIA
 ```
-<div/>
+
