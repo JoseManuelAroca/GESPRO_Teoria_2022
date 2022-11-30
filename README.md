@@ -41,6 +41,9 @@ JMA modifica
 El objetivo de nuestro proyecto es la creación de una aplicación para que usuarios de todo el mundo pueda compartir su pasión por la programación.
 
 
+## **¿En qué se diferencia CodeShare de otros servicios?**
+CodeShare se diferencia en otras aplicaciones por el software tan intuitivo y los servicios que ofrece definidos ya en las funcionalidades.
+
 ## **¿Se pueden quitar los anuncios?**
 CodeShare da la posibilidad a los usuarios de pagar 10€ al año para quitar la publicidad de la web.
 No obstante la plataforma es totalmente gratuita y se puede acceder a todas sus funcionalidades sin costo adicional.
