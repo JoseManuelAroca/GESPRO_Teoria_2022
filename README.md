@@ -14,3 +14,19 @@ Rodrigo Grande Muñoz
 Adrián Ortega Moradillo
 
 Iker Dominguez Ibañez
+
+## FAQ
+- ¿Qué servicios ofrecemos?
+Los canales más importantes de la televisión, deportes, plataformas de streaming online y series / peliculas de la actualidad.
+- ¿Cuáles serán los métodos de pago?
+Paypal,Tarjeta de credito y criptomonedas
+- ¿Hay un plan de pago gratis?
+Si, nuestra aplicación es gratis, aunque podras comprar canales y suscripciones.
+- ¿Qué tipo de suscripciones teneis?
+Actualmente contamos con 3, UBUSport, UBUFull y UBUFlix
+- ¿Qué servicios ofrece UBUSport?
+Ofrece todos los canales de deportes de los que disponemos.
+- ¿Qué servicios ofrece UBUFlix?
+Ofrece todo nuestro catalogo de peliculas y series.
+- ¿Qué servcios ofrece UBUFull?
+Los servicios de UBUSport y UBUFlix juntos.
