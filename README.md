@@ -7,7 +7,8 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
-Sofía Calavia Gómez
+
+Sofia Calavia Gomez
 
 Rodrigo Grande Muñoz
 
@@ -30,3 +31,9 @@ Ofrece todos los canales de deportes de los que disponemos.
 Ofrece todo nuestro catalogo de peliculas y series.
 - ¿Qué servcios ofrece UBUFull?
 Los servicios de UBUSport y UBUFlix juntos.
+
+Estado del proyecto: 
+
+El proyecto lo encontramos en una fase beta, el proyecto se encuentra totalmente planteado y contamos con los recuersos y empleados necesarios para su realización, una vez organizado todos los apartados y habiendo establecido unos tiempos para el proyecto mos pondremos en la realización de este lo antes posible. 
+
+Planteamos llevar el proyecto los más acuerdo a lo pleanteado, pero cualquier cambio producido será informado aquí. 
