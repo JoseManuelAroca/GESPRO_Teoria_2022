@@ -34,13 +34,14 @@ Ofrece todo nuestro catalogo de peliculas y series.
 Los servicios de UBUSport y UBUFlix juntos.
 
 ## Estado del proyecto 
+El proyecto lo encontramos en una fase beta, el proyecto se encuentra totalmente planteado y contamos con los recuersos y empleados necesarios para su realización, una vez organizado todos los apartados y habiendo establecido unos tiempos para el proyecto mos pondremos en la realización de este lo antes posible.
 
 ## Entorno de desarrollo e integración    
  El entorno de producción del proyecto sera accesible y sencillo proporcionandole la mayor ágilidad posible, además en cuanto a su desarrollo contara con exhaustivas pruebas do software y test automátizados para comprobar que no haya problemas de su despliegue.
 
 ## Guía instalación y funcionamiento
 En cuanto a la instalación del software sera una instalación sencilla para todo tipo de usuario contando con una guía que especificara a la perfección los pasos a seguir para la instalación, por otro lado, en cuanto a su funcionamiento, este sera bastante didáctico contando así con diferentes alternativas para la busqueada de canales y posibilidades que ofrece el software.
-El proyecto lo encontramos en una fase beta, el proyecto se encuentra totalmente planteado y contamos con los recuersos y empleados necesarios para su realización, una vez organizado todos los apartados y habiendo establecido unos tiempos para el proyecto mos pondremos en la realización de este lo antes posible. 
+ 
 
 Planteamos llevar el proyecto los más acuerdo a lo pleanteado, pero cualquier cambio producido será informado aquí. 
 
