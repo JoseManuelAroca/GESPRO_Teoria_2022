@@ -63,5 +63,7 @@ Inscrito en el Registro de Porpiedad Intelectual y bajo la ley de Popiedad Intel
 
 ## Fuentes de información
 1-[pagepersonnel.es](https://www.pagepersonnel.es/advice/candidatos/desarrollo-profesional/cinco-nuevas-tecnolog%C3%ADas-que-cambiar%C3%A1n-tu-forma-de-trabajar)
+
 2-[mujeresconsejeras.com](https://www.mujeresconsejeras.com/las-25-nuevas-tecnologias-que-triunfaran-entre-2015-2020/)
-3-[telcel.com](https://www.telcel.com/empresas/tendencias/notas/tecnologias-mas-utilizadas-en-empresas#:~:text=Internet%20de%20las%20Cosas%20(IoT,Realidad%20Aumentada%2FVirtual%3A%2070%25)
+
+3-[telcel.com](https://www.telcel.com)
