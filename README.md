@@ -7,7 +7,7 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 JMA modifica
 
    <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-red">
    
    <img src="https://img.shields.io/github/last-commit/Santinine/GESPRO_Teoria_2022">
    </p>
