@@ -1,4 +1,6 @@
-#        VER MAPAS DE MOTOR:
+<a align="center">
+# VER MAPAS DE MOTOR:
+<a/>
 
 **ID de la rama:** 
 ```
