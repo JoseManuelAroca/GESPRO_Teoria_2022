@@ -51,4 +51,4 @@ Este espacio será reservado para informar acerca de los posibles errores conoci
 
 Inscrito en el Registro de Porpiedad Intelectual y bajo la ley de Popiedad Intelectual en Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia.
 
-# Gracias por apoyar nuestro proyecto y estar al tanto 🥰
+## Gracias por apoyar nuestro proyecto y estar al tanto 🥰
