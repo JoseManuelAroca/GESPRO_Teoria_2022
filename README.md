@@ -42,3 +42,25 @@ En cuanto a la instalación del software sera una instalación sencilla para tod
 El proyecto lo encontramos en una fase beta, el proyecto se encuentra totalmente planteado y contamos con los recuersos y empleados necesarios para su realización, una vez organizado todos los apartados y habiendo establecido unos tiempos para el proyecto mos pondremos en la realización de este lo antes posible. 
 
 Planteamos llevar el proyecto los más acuerdo a lo pleanteado, pero cualquier cambio producido será informado aquí. 
+
+
+-Entorno de desarrollo e integración:    
+    El entorno de producción del proyecto sera accesible y sencillo proporcionandole la mayor ágilidad posible, además en cuanto a su desarrollo contara con exhaustivas pruebas do software y test automátizados para comprobar que no haya problemas de su despliegue
+
+
+    Las teconologías usadas :
+    -Internet de las cosas o dispositivos conectados a la nube : el loT puede aplicarse al mantenimmiento predictivo de la maquinaria,para llevar mejor acabo el soporte técnico.
+
+    - Big Data :pora poder gestionar los datos de los clientes y  trabajadores de la empresa,tanto también para el análisi de datos.
+
+    -Tecnología inalámbrica: para que puedan conectarse desde cualquier lugar y así desempeñar mejor su utilización.
+
+    -Tecnología en vídeo:Para poder hacer entrevistas,y para poder desarrollar mejor la opción de streaming.
+
+    Fuentes de información:
+    1-https://www.pagepersonnel.es/advice/candidatos/desarrollo-profesional/cinco-nuevas-tecnolog%C3%ADas-que-cambiar%C3%A1n-tu-forma-de-trabajar
+
+    2- https://www.mujeresconsejeras.com/las-25-nuevas-tecnologias-que-triunfaran-entre-2015-2020/
+
+    
+    3- https://www.telcel.com/empresas/tendencias/notas/tecnologias-mas-utilizadas-en-empresas#:~:text=Internet%20de%20las%20Cosas%20(IoT,Realidad%20Aumentada%2FVirtual%3A%2070%25
