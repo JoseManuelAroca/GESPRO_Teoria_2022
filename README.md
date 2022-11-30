@@ -1,12 +1,45 @@
-# GESPRO_Teoria_2022
-Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2022/23. Universidad de Burgos.
+# GESTIÓN DE PIEZAS Y RECAMBIOS PARA LOS VEHÍCULOS:
+  
+## ID de la rama: 
+```
+3
+```
+<br><br/>
 
-Para completar el trabajo de estudio en grupo en las sesiones de teoría, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
+
+## Descripción: 
+<br><br/>
+```
+Esta rama nos permite ver y gestionar todos los modelos de piezas incluidos en cada vehículo, así como los posibles recambios en caso de avería.
+```
+
+<br><br/>
+
+## Estimación de tiempo:
+```
+La votación para la asignación de tiempo estimado obtuvo los siguientes resultados:
+    David: 2
+    Alejandro: 1
+    Ainhoa: 2
+    Rodrigo: 1
+Por lo tanto, el tiempo final estimado es de 1.5 días
+```
+<br><br/>
+
+## Dependencias:
+```
+- Para poder completar esta tarea, es necesario haber completado la tarea con ID 2.
+
+- Se deben haber comprado piezas de repuesto
+```
+
+<br><br/>
+
+## Condiciones de satisfacción:
+```
+- Permite ordenar las piezas y recambios visualizados, según el stock disponible.
+- Permite visualizar el modelo específico de cada pieza.
+- Incluye una breve descripción de las características de cada pieza.
+```
 
 
-JMA modifica
-
-**Incluid debajo el nombre de los miembros del grupo:**
-
-Ainhoa Rodrigo Obregón
-Rodrigo Rodriguez Fernandez
