@@ -11,9 +11,7 @@
 ## Descripción: 
 <br><br/>
 ```
-Esta rama nos va a permitir visualizar una lista con todos los Gran Premios.
-
-En caso de que haya sanciones, se indicará su valor, el corredor sancionado y el tiempo que ha recibido de sanción.
+Esta rama nos va a permitir visualizar las configuraciones del coche
 ```
 <br><br/>
 
@@ -32,16 +30,15 @@ Por lo tanto, el tiempo final estimado es de 1.75 días
 ```
 - Para poder completar esta tarea, es necesario haber completado la tarea con ID 5.
 
-- Se debe haber finalizado la carrera
-- Se deben de haber provocado acciones antirreglamentarias para que aparezcan estas sanciones.
+- Se debe haber finalizado los entrenamientos para poner la configuración adecuada
 ```
 
 <br><br/>
 
 ## Condiciones de satisfacción:
 ```
-- Permite ordenar la lista visualizada según la cantidad de tiempo de la sanción, la fecha, el corredor, ...
-- En cada sanción, se debe incluir una breve descripción del motivo y las consecuencias que conlleva.
-- Se incluirá un enlace en el acta de carrera con el informe oficial de la FIA
+- Conducción perfecta para el piloto
+- Guardado de configuraciones previas
+- Enlace al acta de carrera con informe de la FIA en cuestion
 ```
 
