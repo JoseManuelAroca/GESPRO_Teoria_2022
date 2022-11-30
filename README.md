@@ -9,10 +9,8 @@ JMA modifica
 <<<<<<< Updated upstream
 **Incluid debajo el nombre de los miembros del grupo:**
 
-Ainhoa Rodrigo Obregón
-Rodrigo Rodriguez Fernandez
+**VER MAPAS DE MOTOR:**
 =======
-
 
 **VER MAPAS DE MOTOR:**
 <br><br/>
