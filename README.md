@@ -32,10 +32,13 @@ Ofrece todo nuestro catalogo de peliculas y series.
 - ¿Qué servcios ofrece UBUFull?
 Los servicios de UBUSport y UBUFlix juntos.
 
+#Estado del proyecto: 
 ## Estado del proyecto 
 
 ## Entorno de desarrollo e integración    
  El entorno de producción del proyecto sera accesible y sencillo proporcionandole la mayor ágilidad posible, además en cuanto a su desarrollo contara con exhaustivas pruebas do software y test automátizados para comprobar que no haya problemas de su despliegue.
+
+#Guía instalación y funcionamiento:
 
 ## Guía instalación y funcionamiento
 En cuanto a la instalación del software sera una instalación sencilla para todo tipo de usuario contando con una guía que especificara a la perfección los pasos a seguir para la instalación, por otro lado, en cuanto a su funcionamiento, este sera bastante didáctico contando así con diferentes alternativas para la busqueada de canales y posibilidades que ofrece el software.
