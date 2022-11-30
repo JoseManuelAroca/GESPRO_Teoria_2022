@@ -65,6 +65,10 @@ El entorno de producción del proyecto sera accesible y sencillo proporcionandol
     
     3- https://www.telcel.com/empresas/tendencias/notas/tecnologias-mas-utilizadas-en-empresas#:~:text=Internet%20de%20las%20Cosas%20(IoT,Realidad%20Aumentada%2FVirtual%3A%2070%25
 
+## Bugs y correciones de errores
+Este espacio será reservado para informar acerca de los posibles errores conocidos o los cambios realizados en la solución de estos.
+
+
 ## Derechos de autor y licencias: 
 
 Inscrito en el Registro de Porpiedad Intelectual y bajo la ley de Popiedad Intelectual en Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia.
