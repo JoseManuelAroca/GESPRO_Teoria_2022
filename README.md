@@ -18,3 +18,7 @@ Iker Dominguez Ibañez
 Descrición del proyecto:
     Hemos desarrollado una aplicación denominada Ubuzun capaz de poder 
     ver diferentes canales que te interesen , en los que incluye deportes, ver los difernetes resumenes de cada partido , obtener entrevistas exclusivas, también podrás ver series y películas, incluso podras hacer streaming todo ello con una subscripción mensual.
+
+
+Entorno de desarrollo e integración:    
+    El entorno de producción del proyecto sera accesible y sencillo proporcionandole la mayor ágilidad posible, además en cuanto a su desarrollo contara con exhaustivas pruebas do software y test automátizados para comprobar que no haya problemas de su despliegue
