@@ -7,7 +7,8 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
-Sofía Calavia Gómez
+
+Sofia Calavia Gomez
 
 Rodrigo Grande Muñoz
 
@@ -15,10 +16,9 @@ Adrián Ortega Moradillo
 
 Iker Dominguez Ibañez
 
-Descrición del proyecto:
-    Hemos desarrollado una aplicación denominada Ubuzun capaz de poder 
-    ver diferentes canales que te interesen , en los que incluye deportes, ver los difernetes resumenes de cada partido , obtener entrevistas exclusivas, también podrás ver series y películas, incluso podras hacer streaming todo ello con una subscripción mensual.
 
+Estado del proyecto: 
 
-Entorno de desarrollo e integración:    
-    El entorno de producción del proyecto sera accesible y sencillo proporcionandole la mayor ágilidad posible, además en cuanto a su desarrollo contara con exhaustivas pruebas do software y test automátizados para comprobar que no haya problemas de su despliegue
+El proyecto lo encontramos en una fase beta, el proyecto se encuentra totalmente planteado y contamos con los recuersos y empleados necesarios para su realización, una vez organizado todos los apartados y habiendo establecido unos tiempos para el proyecto mos pondremos en la realización de este lo antes posible. 
+
+Planteamos llevar el proyecto los más acuerdo a lo pleanteado, pero cualquier cambio producido será informado aquí. 
