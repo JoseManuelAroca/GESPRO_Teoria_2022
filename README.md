@@ -1,9 +1,44 @@
-# GESPRO_Teoria_2022
-Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2022/23. Universidad de Burgos.
 
-Para completar el trabajo de estudio en grupo en las sesiones de teoría, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
+# VER MAPAS DE MOTOR:
+  
+## ID de la rama: 
+```
+4
+```
+<br><br/>
 
 
-JMA modifica
+## Descripción: 
+<br><br/>
+```
+Esta rama nos va a permitir visualizar las configuraciones del coche
+```
+<br><br/>
 
-**Incluid debajo el nombre de los miembros del grupo:**
+## Estimación de tiempo:
+```
+La votación para la asignación de tiempo estimado obtuvo los siguientes resultados:
+    David: 1
+    Alejandro: 2
+    Ainhoa: 2
+    Rodrigo: 2
+Por lo tanto, el tiempo final estimado es de 1.75 días
+```
+<br><br/>
+
+## Dependencias:
+```
+- Para poder completar esta tarea, es necesario haber completado la tarea con ID 5.
+
+- Se debe haber finalizado los entrenamientos para poner la configuración adecuada
+```
+
+<br><br/>
+
+## Condiciones de satisfacción:
+```
+- Conducción perfecta para el piloto
+- Guardado de configuraciones previas
+- Enlace al acta de carrera con informe de la FIA en cuestion
+```
+
