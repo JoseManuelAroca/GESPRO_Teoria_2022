@@ -53,6 +53,10 @@ El entorno de producción del proyecto sera accesible y sencillo proporcionandol
 - Tecnología inalámbrica: para que puedan conectarse desde cualquier lugar y así desempeñar mejor su utilización.
 - Tecnología en vídeo:Para poder hacer entrevistas,y para poder desarrollar mejor la opción de streaming.
 
+## Bugs y correciones de errores
+Este espacio será reservado para informar acerca de los posibles errores conocidos o los cambios realizados en la solución de estos.
+
+
 ## Derechos de autor y licencias: 
 
 Inscrito en el Registro de Porpiedad Intelectual y bajo la ley de Popiedad Intelectual en Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia.
