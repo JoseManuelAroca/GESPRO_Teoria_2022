@@ -3,6 +3,8 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 Para completar el trabajo de estudio en grupo en las sesiones de teoría, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
 
+# *UBUGRAM*
+A continuación les mostratremos el readme de nuestro desarrollo de la aplicación de Ubugram
 
 ## Introduccion: 
 Ubugram es una aplicacion y red social en la cual los usuarios pueden publicar fotos y videos que duran 24 horas. 
