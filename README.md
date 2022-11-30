@@ -80,8 +80,46 @@ COMENTARIOS:
 - Perfil Premium (Creo que habiamos puesto perfil premium pero no se muy bien como implementarlo) 
 -->
 
+## Política de datos
+Para proporcionar nuestro Servicio, debemos recopilar y usar tu información. En la Política de datos se explica cómo recopilamos, usamos y compartimos información a través de los distintos Productos de Meta. También se detalla cómo puedes controlar tu información, por ejemplo, desde la configuración de seguridad y privacidad de Ubugram.
+
+## ¿Quién puede usar Ubugram?
+    1.Debes tener al menos 14 años.
+
+    2.No debes tener antecedentes que indiquen que se te ha prohibido utilizar algún aspecto de nuestro Servicio en virtud de la legislación aplicable o usar servicios relacionados con los pagos si apareces en una lista de personas o empresas con las que el comercio esté prohibido o restringido.
+
+    3.Tu cuenta no debe haberse inhabilitado anteriormente a causa de una infracción de la ley o de cualquiera de nuestras políticas.
+
+    4.No puedes haber sido condenado por delitos sexuales.
+
+## Información sobre cookies:
+### **¿Qué son las cookies?**
+Las cookies son pequeños archivos de texto que contienen una cadena de caracteres. Esta se puede insertar en tu ordenador o dispositivo móvil y sirve para identificar tu navegador o tu dispositivo de forma exclusiva. Podemos usar ciertas tecnologías, como las cookies, los píxeles y el almacenamiento local, para proporcionar y proteger productos, servicios y anuncios, así como para comprender su funcionamiento.
+
+### **¿Para qué se usan cookies?**
+Las cookies y otras tecnologías indican a los sitios web o a ciertos servicios si tu ordenador o dispositivo ya ha accedido a ellos con anterioridad. Estas tecnologías se pueden usar para proporcionar productos, servicios y anuncios. También nos permiten comprender cómo se usa el sitio o servicio, nos ayudan a recordar tus preferencias, hacen que puedas navegar entre las distintas páginas de forma más eficaz y, por lo general, mejoran tu experiencia de uso de nuestros servicios. Por otra parte, las cookies también pueden ayudar a garantizar que el contenido publicitario que se te muestra en internet resulte más pertinente para ti y tus intereses.
+
+## Contacto:
+Para contactar con los desarrolladores y gestores del proyecto podéis escribir al siguiente correo:
+**sag1011@alu.ubu.es**
+Para un servicio de atención al cliente contactar en el sigueinte telefono:
+643123920219834
+
+## Preguntas frecuentes
+**¿Que hago si me da error al subir una publicación?**
+Prueba a revisar tu conexión a internet y abre de nuevo la app para intentarlo de nuevo. En caso de seguir con el mismo error no dude en contactar con atención al cliente.
+**No conozco a alguién que me ha hablado por el chat¿Que puedo hacer?**
+Siempre tienes la opción de bloquear a cualquier usuario que no desees que vea tu spublicaciones y en unos segundos desaparecerá tu perfil de su cuenta
+**¿Es una web segura?**
+Trabajamos día a día para que sea una aplicación y una web en la que nuestros usuarios estén seguros
+
+## Derechos de autor:
+La aplicación tiene cómo principales autores y desarrolladores a:
+Juan García López y Sergio Alonso García.
+Cualquier utilización ilegal de el nombre de la marca será sancionado de acuerdo a la legislación vigente
 
 
 **Incluid debajo el nombre de los miembros del grupo:**
+
 Juan Garcia Lopez
 Sergio Alonso Garcia
