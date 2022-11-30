@@ -1,7 +1,7 @@
 
 # VER MAPAS DE MOTOR:
   
-**ID de la rama:** 
+## ID de la rama: 
 ```
 4
 ```
@@ -17,7 +17,7 @@ En caso de que haya sanciones, se indicará su valor, el corredor sancionado y e
 ```
 <br><br/>
 
-**Estimación de tiempo:**
+## Estimación de tiempo:
 ```
 La votación para la asignación de tiempo estimado obtuvo los siguientes resultados:
     David: 1
@@ -28,7 +28,7 @@ Por lo tanto, el tiempo final estimado es de 1.75 días
 ```
 <br><br/>
 
-**Dependencias:**
+## Dependencias:
 ```
 - Para poder completar esta tarea, es necesario haber completado la tarea con ID 5.
 
@@ -38,7 +38,7 @@ Por lo tanto, el tiempo final estimado es de 1.75 días
 
 <br><br/>
 
-**Condiciones de satisfacción:**
+## Condiciones de satisfacción:
 ```
 - Permite oredenar la lista visualizada según la cantidad de tiempo de la sanción, la fecha, el corredor, ...
 - En cada sanción, se debe incluir una breve descripción del motivo y las consecuencias que conlleva.
