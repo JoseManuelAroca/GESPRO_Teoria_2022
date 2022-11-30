@@ -1,14 +1,12 @@
 
 # VER MAPAS DE MOTOR:
-===================
-
   
 **ID de la rama:** 
 ```
 4
 ```
 <br><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hola
+
 
 **Descripción:**
 <br><br/>
