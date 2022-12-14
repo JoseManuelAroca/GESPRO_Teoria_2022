@@ -15,6 +15,7 @@ JMA modifica
 - ADMINISTRACIÓN DE USUARIOS
     - Registro de usuarios 
     - Inicio de sesión  
+    - Cierre de sesi
     - Configuración de usuarios  
     - Seguir a otros usuarios   
     - Reportar a otros usuarios  
