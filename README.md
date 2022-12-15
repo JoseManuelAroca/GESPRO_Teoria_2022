@@ -1,5 +1,5 @@
 # GESPRO_Teoria_2022
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
@@ -11,6 +11,7 @@ JMA modifica
 
 ## Descripción
 **Web de Apuntes** es una página que permite a estudiantes de todos los cursos, carreras y formaciones compartir sus apuntes y descargar los de otros para así poderse ayudar entre ellos.
+
 ## Funciones  
 - ADMINISTRACIÓN DE USUARIOS
     - Registro de usuarios 
