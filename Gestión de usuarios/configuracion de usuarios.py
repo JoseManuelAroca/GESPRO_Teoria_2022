@@ -1,1 +1,1 @@
-#nos permitira configurar los usuarios
+#permitira configurar los usuarios
