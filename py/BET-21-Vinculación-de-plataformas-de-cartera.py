@@ -1,0 +1,1 @@
+Creación de la vinculación de plataformas de cartera para que el usuario pueda introducir los métodos de pago
