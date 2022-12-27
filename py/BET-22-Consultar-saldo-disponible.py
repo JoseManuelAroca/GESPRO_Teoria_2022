@@ -1,0 +1,1 @@
+Permite consultar el saldo disponible al usuario
