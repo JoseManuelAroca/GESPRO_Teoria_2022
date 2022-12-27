@@ -1,1 +1,0 @@
-Ingresar dinero terminada
