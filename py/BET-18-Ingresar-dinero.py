@@ -1,1 +1,1 @@
-Ingresar dinero terminada
+Opción de ingresar dinero terminada

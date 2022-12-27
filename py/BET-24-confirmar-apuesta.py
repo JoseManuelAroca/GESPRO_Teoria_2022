@@ -1,0 +1,1 @@
+Permite confirmar la apuesta 
