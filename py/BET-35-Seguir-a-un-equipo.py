@@ -1,0 +1,1 @@
+Seguir a un equipo
