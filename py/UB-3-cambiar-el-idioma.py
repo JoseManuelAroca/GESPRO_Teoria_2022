@@ -1,0 +1,1 @@
+#Sirve para cambiar el idioma entre todos los posibles
