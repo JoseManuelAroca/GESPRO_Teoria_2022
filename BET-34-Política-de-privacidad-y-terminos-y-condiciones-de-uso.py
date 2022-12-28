@@ -1,1 +1,0 @@
-Politica de privacidad y terminos y condiciones de uso terminada
