@@ -8,4 +8,5 @@ JMA modifica
 modifico de nuevo
 
 ya estoy trabajando con el visual estudio
+en la nueva rama
 **Incluid debajo el nombre de los miembros del grupo:**
