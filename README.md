@@ -6,4 +6,5 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 JMA modifica
 modificado de nuevo
+ya trabajo con el visual estudio y github
 **Incluid debajo el nombre de los miembros del grupo:**
